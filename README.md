@@ -1,4 +1,4 @@
-ecommerce
-=========
+SampleProject
+=============
 
-California 
+Sample project to test Github
